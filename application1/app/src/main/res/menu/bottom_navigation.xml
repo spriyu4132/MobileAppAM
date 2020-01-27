@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home"
+        android:title=""
+        android:icon="@drawable/ic_home"
+        />
+
+    <item
+        android:id="@+id/earring"
+        android:title="EarRing"
+        android:icon="@drawable/ic_earring"
+        />
+
+ <item
+     android:id="@+id/ring"
+     android:title="Ring"
+     android:icon="@drawable/ic_ring"
+     />
+    <item
+        android:id="@+id/bracelet"
+        android:title="Bracelet"
+        android:icon="@drawable/ic_bracelet"
+        />
+
+
+    <item
+        android:id="@+id/necklace"
+        android:title="Necklace"
+        android:icon="@drawable/ic_necklace1"
+        />
+</menu>

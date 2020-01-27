@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/nav_myorder"
+            android:icon="@drawable/ic_my_order"
+            android:title="My Orders" />
+
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Setting" />
+
+        <item
+            android:id="@+id/nav_smartphone"
+            android:icon="@drawable/ic_smartphone"
+            android:title="Contact Us" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_aboutus"
+                android:icon="@drawable/ic_about_us"
+                android:title="About Us" />
+            <item
+                android:id="@+id/nav_terms"
+                android:icon="@drawable/ic_terms"
+                android:title="Terms and Condition" />
+        </menu>
+    </item>
+
+</menu>

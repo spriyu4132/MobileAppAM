@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.OrderDetailsActivity">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/orderrecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <!--<ImageView-->
+        <!--android:id="@+id/imageView"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="200dp"/>-->
+
+    <!--<TextView-->
+        <!--android:layout_marginTop="20dp"-->
+        <!--android:textColor="#A72311"-->
+        <!--android:text="47000"-->
+        <!--android:textSize="20dp"-->
+        <!--android:textStyle="bold"-->
+        <!--android:id="@+id/textPrice"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
+
+
+    <!--<TextView-->
+        <!--android:text="product 1"-->
+        <!--android:textSize="20dp"-->
+        <!--android:id="@+id/textProductName"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
+
+    <!--<TextView-->
+        <!--android:text="ordercode"-->
+        <!--android:textSize="20dp"-->
+        <!--android:id="@+id/textOrderCode"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
+
+    <!--<TextView-->
+        <!--android:text="orderdate"-->
+        <!--android:textSize="20dp"-->
+        <!--android:id="@+id/textOrderDate"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
+
+    <!--<TextView-->
+        <!--android:text="deliverdate"-->
+        <!--android:textSize="20dp"-->
+        <!--android:id="@+id/textDeliverDate"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
+
+</LinearLayout>
