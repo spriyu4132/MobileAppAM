@@ -319,6 +319,15 @@ public class NavigationDrawer extends AppCompatActivity implements NavigationVie
         {
 
         }
+        else if(id==R.id.nav_edit_profile)
+        {
+//            SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
+//            int user_id = preferences.getInt("user_id", 0);
+
+            Intent intent = new Intent(NavigationDrawer.this, EditProfileActivity.class);
+            //intent.putExtra("user_id",user_id);
+            startActivity(intent);
+        }
         else if (id == R.id.nav_smartphone)
         {
 

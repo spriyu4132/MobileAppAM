@@ -56,6 +56,9 @@ public class ProductDetailsActivity extends BackActivity {
         Intent intent = getIntent();
         Product product = (Product) intent.getSerializableExtra("product");
 
+        //float amount= (float) CartActivity.updatePrice();
+        //Log.e("CartActivity", "AMount: " + amount);
+
         SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
         int user_id = preferences.getInt("user_id", 0);
         String url = Utils.createUrl(Constants.ROUTE_CART +user_id );
@@ -86,7 +89,6 @@ public class ProductDetailsActivity extends BackActivity {
             Intent intent = getIntent();
             Product product = (Product) intent.getSerializableExtra("product");
 
-
             SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
             int user_id = preferences.getInt("user_id", 0);
 
@@ -96,6 +98,7 @@ public class ProductDetailsActivity extends BackActivity {
             JsonObject body = new JsonObject();
             body.addProperty("p_id", product.getP_id());
             body.addProperty("user_id",user_id);
+            body.addProperty("total_amount",product.getTotal());
 
             Ion.with(this)
                     .load("POST", url)
@@ -107,6 +110,8 @@ public class ProductDetailsActivity extends BackActivity {
                             String status = result.get("status").getAsString();
                             if (status.equals("success")) {
                                 Toast.makeText(ProductDetailsActivity.this, "Order Placed Successfully ", Toast.LENGTH_SHORT).show();
+
+
 
                                 Intent intent = new Intent(ProductDetailsActivity.this, OrderDetailsActivity.class);
                                 startActivity(intent);

@@ -9,10 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".activity.EditProfileActivity"></activity>
+        <activity android:name=".activity.PlaceOrderActivity" />
         <activity
             android:name=".activity.NavigationDrawer"
             android:label="AM"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".activity.OrderDetailsActivity"
             android:label="Order Details" />

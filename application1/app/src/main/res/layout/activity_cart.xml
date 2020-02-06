@@ -17,15 +17,16 @@
     <LinearLayout
         android:orientation="horizontal"
         android:id="@+id/linearLayout"
-        android:layout_alignParentBottom="true"
-        android:background="@color/colorPrimary"
+        android:layout_above="@+id/linearBuyLayout"
+        android:background="@color/white"
         android:layout_width="match_parent"
-        android:layout_height="50dp">
+        android:layout_height="50dp"
+        android:layout_marginBottom="20dp">
 
         <TextView
             android:layout_weight="0.5"
             android:gravity="center"
-            android:textColor="#ffffff"
+            android:textColor="#000000"
             android:textStyle="bold"
             android:textSize="20dp"
             android:text="Total Price"
@@ -36,12 +37,36 @@
             android:id="@+id/textViewPrice"
             android:layout_weight="0.5"
             android:gravity="center"
-            android:textColor="#ffffff"
+            android:textColor="#000000"
             android:textStyle="bold"
             android:textSize="20dp"
             android:text="Total Price"
             android:layout_width="match_parent"
             android:layout_height="match_parent"></TextView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/linearBuyLayout"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+
+        <Button
+            android:onClick="onPlaceOrder"
+            android:id="@+id/textPlaceOrder"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:background="@color/colorPrimary"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:text="Place Order"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></Button>
 
     </LinearLayout>
 

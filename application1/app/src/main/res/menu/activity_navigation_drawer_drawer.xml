@@ -10,6 +10,11 @@
             android:title="My Orders" />
 
         <item
+            android:id="@+id/nav_edit_profile"
+            android:icon="@drawable/ic_mode_edit"
+            android:title="Edit Profile" />
+
+        <item
             android:id="@+id/nav_setting"
             android:icon="@drawable/ic_menu_manage"
             android:title="Setting" />
@@ -18,6 +23,7 @@
             android:id="@+id/nav_smartphone"
             android:icon="@drawable/ic_smartphone"
             android:title="Contact Us" />
+
 
         <item
             android:id="@+id/nav_logout"

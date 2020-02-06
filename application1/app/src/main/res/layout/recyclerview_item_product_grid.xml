@@ -9,13 +9,17 @@
     <ImageView
         android:layout_marginTop="60dp"
         android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
         android:id="@+id/imageView"
         android:layout_width="match_parent"
-        android:layout_height="100dp"/>
+        android:layout_height="150dp"/>
 
     <TextView
         android:layout_marginTop="10dp"
         android:id="@+id/textTitle"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
         android:textStyle="bold"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -24,6 +28,8 @@
         android:textColor="#A72311"
         android:id="@+id/textPrice"
         android:textStyle="bold"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 

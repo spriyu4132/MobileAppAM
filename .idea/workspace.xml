@@ -5,7 +5,36 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6f21ca6-700a-4e16-a6cf-2b3b3c9eaf92" name="Default Changelist" comment="" />
+    <list default="true" id="e6f21ca6-700a-4e16-a6cf-2b3b3c9eaf92" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/application1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/activity/CartActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/activity/CartActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/activity/NavigationDrawer.java" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/activity/NavigationDrawer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/activity/ProductDetailsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/activity/ProductDetailsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/db/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/db/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/model/BraceletFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/model/BraceletFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/model/EarRingFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/model/EarRingFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/model/NecklaceFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/model/NecklaceFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/model/RingFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/model/RingFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/layout/activity_cart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/layout/activity_cart.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/layout/activity_loader.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/layout/activity_loader.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/layout/activity_product_details.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/layout/activity_product_details.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/layout/activity_sign_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/layout/activity_sign_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/layout/activity_sign_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/layout/activity_sign_up.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/layout/app_bar_navigation_drawer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/layout/app_bar_navigation_drawer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/layout/fragment_bracelet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/layout/fragment_bracelet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/layout/fragment_earring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/layout/fragment_earring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/layout/fragment_necklace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/layout/fragment_necklace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/layout/fragment_ring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/layout/fragment_ring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/layout/recyclerview_item_product_grid.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/layout/recyclerview_item_product_grid.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/menu/activity_navigation_drawer_drawer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/menu/activity_navigation_drawer_drawer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/application1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +45,13 @@
     <session id="-528688084">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -55,10 +85,17 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/activity/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="311" />
@@ -71,8 +108,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,87 +122,11 @@
               <item name="Day10" type="462c0819:PsiDirectoryNode" />
               <item name="application1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Day10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day10" type="462c0819:PsiDirectoryNode" />
-              <item name="application1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day10" type="462c0819:PsiDirectoryNode" />
-              <item name="application1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day10" type="462c0819:PsiDirectoryNode" />
-              <item name="application1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day10" type="462c0819:PsiDirectoryNode" />
-              <item name="application1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day10" type="462c0819:PsiDirectoryNode" />
-              <item name="application1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day10" type="462c0819:PsiDirectoryNode" />
-              <item name="application1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day10" type="462c0819:PsiDirectoryNode" />
-              <item name="application1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="application1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day10" type="462c0819:PsiDirectoryNode" />
-              <item name="application1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="application1" type="462c0819:PsiDirectoryNode" />
-              <item name="activity" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,27 +172,27 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info id="Build Variants" side_tool="true" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.23630327" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23630327" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Run" />
-      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Logcat" visible="true" weight="0.32901832" />
-      <window_info anchor="bottom" id="Debug" />
+      <window_info id="Build Variants" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="1" weight="0.32901832" />
       <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32901832" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Logcat" order="6" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -242,13 +203,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" column="76" lean-forward="true" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/activity/AddContact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -265,8 +219,19 @@
     <entry file="file://$PROJECT_DIR$/application1/gradle.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/activity/AddContact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/application1/app/src/main/java/com/example/application1/activity/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

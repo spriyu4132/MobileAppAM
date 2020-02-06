@@ -19,6 +19,7 @@
         android:textSize="20dp"
         android:textStyle="bold"
         android:id="@+id/textPrice"
+        android:layout_marginLeft="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
@@ -26,6 +27,7 @@
     <TextView
         android:text="product 1"
         android:textSize="20dp"
+        android:layout_marginLeft="20dp"
         android:id="@+id/textDescription"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -38,6 +40,9 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:elevation="0dp"
+        android:textColor="@color/white"
+        android:background="@color/colorPrimary"
+        android:layout_marginLeft="20dp"
         android:onClick="onAddToCart"
         android:text="Add To Cart" />
 
@@ -45,6 +50,9 @@
         android:layout_alignParentRight="true"
         android:onClick="onBuy"
         android:layout_marginTop="30dp"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/white"
+        android:background="@color/colorPrimary"
         android:text="Buy"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
